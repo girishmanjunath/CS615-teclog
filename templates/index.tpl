@@ -18,7 +18,7 @@
     <div id="notepad">
         <div id="notepad-header" class="header">
             <span><a href="#" onclick="document.getElementById('updateForm').submit();">Save</a></span>&nbsp;|&nbsp;<span><a href="index.php?action=delete">Delete</a></span>
-            <span class="center">linker </span><span class="right" ><a href="yahoo.com"  target="_Blank"> <img src="images/yahoo.png"></a></span>
+            <span class="center">linker </span><span class="right" ><a href="https://ie.yahoo.com/?p=us"  target="_Blank"> <img src="images/yahoo.png"></a></span>
         </div>
         <div>
             {foreach from=$notes item=note}
