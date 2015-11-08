@@ -18,7 +18,7 @@
     <div id="notepad">
         <div id="notepad-header" class="header">
             <span><a href="#" onclick="document.getElementById('updateForm').submit();">Save</a></span>&nbsp;|&nbsp;<span><a href="index.php?action=delete">Delete</a></span>
-            
+            <span class="right" ><a href="https://www.facebook.com/"  target="_Blank"> <img src="images/f.jpg"></a></span>
 			<span class="right" ><a href="https://ie.yahoo.com/?p=us"  target="_Blank"> <img src="images/yahoo.png"></a></span>
 			<span class="right" ><a href="https://plus.google.com/"  target="_Blank"> <img src="images/google.jpg"></a></span>
 			<span class="right">linker </span>
